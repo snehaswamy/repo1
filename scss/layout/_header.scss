@@ -1,0 +1,6 @@
+.title
+{
+   $size:20pt;
+   @include header_title($ods-orange, $size);
+    margin-top: 50px;
+}
